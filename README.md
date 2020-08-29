@@ -6,3 +6,5 @@ PROBLEMS SOLVED
 
 
 2. MIDDLE OF LINKED LIST AND REMOVE THE NTH NODE FROM END:  https://youtu.be/hNNBtA83AVM
+
+3. Sort Array by Parity : https://youtu.be/K75x6ZqaCvc
