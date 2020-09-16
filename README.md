@@ -10,3 +10,5 @@ PROBLEMS SOLVED
 3. Sort Array by Parity : https://youtu.be/K75x6ZqaCvc
 
 4. MERGE TWO SORTED LINKED LISTS:  INPLACE ITERATIVE , RECURRSIVE AND NEW LIST- ITERATIVE APPROACH : https://youtu.be/oeH7oL0oY9k
+
+5. COMBINATION SUM 3: BACKTRACKING https://leetcode.com/problems/combination-sum-iii/
